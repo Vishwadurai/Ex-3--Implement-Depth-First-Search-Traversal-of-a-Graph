@@ -81,5 +81,5 @@ DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
 
 
-**Result:**
+### Result:
 Thus the program was executed successfully,
